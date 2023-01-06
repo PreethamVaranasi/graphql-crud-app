@@ -9,7 +9,7 @@ To run this application:
         PORT = required port number
         MONGO_URI = 'mongodb uri'
 
-2. go to backend folder and run npm run dev for running backend in development mode.
+2. Go to backend folder and run npm run dev for running backend in development mode.
 
 3. Open a new command line and navigate to fronend and run npm start to run frontend. 
 
